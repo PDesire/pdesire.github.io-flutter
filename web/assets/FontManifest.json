@@ -1,0 +1,34 @@
+[
+  {
+    "family": "NunitoSans",
+    "fonts": [
+      {
+        "asset": "fonts/NunitoSans-Regular.ttf"
+      }
+    ]
+  },
+  {
+    "family": "NunitoSansBold",
+    "fonts": [
+      {
+        "asset": "fonts/NunitoSans-Bold.ttf"
+      }
+    ]
+  },
+  {
+    "family": "NunitoSansLight",
+    "fonts": [
+      {
+        "asset": "fonts/NunitoSans-Light.ttf"
+      }
+    ]
+  },
+  {
+    "family": "CustomIcons",
+    "fonts": [
+      {
+        "asset": "fonts/CustomIcons.ttf"
+      }
+    ]
+  }
+]
